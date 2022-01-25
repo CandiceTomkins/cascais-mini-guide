@@ -1,6 +1,6 @@
 
 .body-app{
-  background-color:  #F9B614;
+  background-color:  #ABDAC3;
 }
 .App {
   text-align: center;
@@ -24,7 +24,7 @@ margin: 30px;
   flex-direction: column;
   align-items: center;
   justify-content: center;
-  color: #F9B5CC;
+  color: white;
   font-size: calc(10px + 2vmin);
   min-height: 100vh;
 }
@@ -33,7 +33,7 @@ margin: 30px;
   font-size: 25px;
 }
 .front-end-dev{
-font-weight: 700;
+font-weight: 600;
   font-size: 18px;
 }
 .based-in-lisbon{
