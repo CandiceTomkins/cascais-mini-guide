@@ -27,6 +27,7 @@ margin: 30px;
   color: white;
   font-size: calc(10px + 2vmin);
   min-height: 100vh;
+  padding:10px;
 }
 .my-name{
 
