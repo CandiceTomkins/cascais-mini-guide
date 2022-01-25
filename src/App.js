@@ -19,7 +19,7 @@ function App() {
       <About/>
       <Projects/>
       <Contact/>
-<p>Coded by Candice Tomkins. Open-sourced on <a href="https://github.com/CandiceTomkins" alt="GitHub">GitHub</a></p>
+<small>Coded by Candice Tomkins. Open-sourced on <a href="https://github.com/CandiceTomkins" alt="GitHub">GitHub</a></small>
     </div>
     
   );
