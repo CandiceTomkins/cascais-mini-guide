@@ -1,0 +1,15 @@
+.body-projects{
+    background-color: #F64809;
+}
+.project-section {
+    max-width: 600px;
+    margin: 0 auto;
+    background-color: #F9B614;
+    min-height: 100vh;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    font-size: calc(10px + 2vmin);
+    color: #F64809;
+  }
