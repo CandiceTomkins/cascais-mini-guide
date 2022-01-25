@@ -1,5 +1,5 @@
 .body-projects{
-    background-color:  #F9B614;;
+    background-color:  #F9B614;
 }
 .project-section {
     max-width: 600px;
@@ -16,5 +16,33 @@
   }
   
   .container{
-      text-align: left
+      text-align: centre;
   }
+  .react-weather-project {
+      max-width: 300px;
+
+  }
+  .project-photo{
+    border-radius: 4px;
+    -moz-box-shadow: 0 0 60px white;
+    -webkit-box-shadow:  0 0 60px white;
+    box-shadow: 0px 0px 60px white;
+  }
+  .project-paragraph{
+      font-size: 12px;
+      text-align: center;
+  }
+  
+  .btn-project{
+      background-color:#F64809;
+      color: white;
+      padding: 5px, 10px;
+      font-size: 10px;
+  }
+
+  .btn-project:hover{
+     transition: ease-in-out all 2ms;
+    background-color:#F9B5CC;
+    color: white;
+   
+}
