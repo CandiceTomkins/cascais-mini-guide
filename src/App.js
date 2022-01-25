@@ -5,6 +5,7 @@ import Projects from './Projects';
 import Contact from './Contact';
 import React from 'react';
 
+
 function App() {
   return (
     <div className="App">
@@ -18,7 +19,9 @@ function App() {
       <About/>
       <Projects/>
       <Contact/>
+<p>Coded by Candice Tomkins. Open-sourced on <a href="https://github.com/CandiceTomkins" alt="GitHub">GitHub</a></p>
     </div>
+    
   );
 }
 

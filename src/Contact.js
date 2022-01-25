@@ -6,6 +6,7 @@ export default function Contact (){
         <div className="body-contact">
         <div className="contact-section">
             <p> contact me here</p>
+            <p> work with me</p>
         </div>
         </div>
     )
