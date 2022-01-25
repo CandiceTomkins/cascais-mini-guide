@@ -9,13 +9,13 @@ export default function About (){
        <div className="container">
           
             
-        <i class="fab fa-html5 fa-3x"></i>
+        <i class="fab fa-html5 fa-3x tech-icon"></i>
   
-        <i class="fab fa-css3-alt fa-3x"></i>
+        <i class="fab fa-css3-alt fa-3x tech-icon"></i>
         
-        <i class="fab fa-js fa-3x"></i>
+        <i class="fab fa-js fa-3x tech-icon"></i>
         
-        <i class="fab fa-react fa-3x"></i>
+        <i class="fab fa-react fa-3x tech-icon"></i>
        
      
         </div>

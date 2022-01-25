@@ -18,31 +18,25 @@
   .container{
       text-align: centre;
   }
-  .react-weather-project {
-      max-width: 300px;
-
-  }
-  .project-photo{
-    border-radius: 4px;
-    -moz-box-shadow: 0 0 60px white;
-    -webkit-box-shadow:  0 0 60px white;
-    box-shadow: 0px 0px 60px white;
-  }
-  .project-paragraph{
-      font-size: 12px;
-      text-align: center;
-  }
+ .project-title{
+     color: #F64809;
+    font-size: 18px;
+  
+ }
+  
   
   .btn-project{
-      background-color:#F64809;
-      color: white;
+    
+      color: #F64809;
       padding: 5px, 10px;
-      font-size: 10px;
+      font-size: 12px;
+  
   }
 
   .btn-project:hover{
      transition: ease-in-out all 2ms;
-    background-color:#F9B5CC;
-    color: white;
+  
+    color:  #2C5CE5;
+    font-size: 18px;
    
 }
