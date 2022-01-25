@@ -1,15 +1,16 @@
-.body-contact{
-    background-color:  #F9B5CC;
+
+  .body-contact{
+    background-color:  #2C5CE5;
 }
 .contact-section {
-    max-width:600px;
+    max-width: 600px;
     margin: 0 auto;
-    background-color:  #F64809;
+    background-color: #F9B5CC;
     min-height: 100vh;
     display: flex;
     flex-direction: column;
     align-items: center;
     justify-content: center;
     font-size: calc(10px + 2vmin);
-    color: #F9B5CC;
+    color: #2C5CE5;
   }

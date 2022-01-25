@@ -10,7 +10,7 @@ function App() {
     <div className="App">
       <div className="body-app">
       <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
+        <img src={logo} className="App-logo mt-4" alt="logo" />
       
           <h1>Candice Tomkins <span>Front-End Developer | Freelance Creative</span></h1>
       </header>

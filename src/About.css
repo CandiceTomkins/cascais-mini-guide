@@ -1,15 +1,17 @@
-.body-about{
-    background-color:  #2C5CE5;
+
+
+  .body-about{
+    background-color:  #F9B5CC;
 }
 .about-section {
-    max-width: 600px;
+    max-width:600px;
     margin: 0 auto;
-    background-color: #F9B5CC;
+    background-color:  #F64809;
     min-height: 100vh;
     display: flex;
     flex-direction: column;
     align-items: center;
     justify-content: center;
     font-size: calc(10px + 2vmin);
-    color: #2C5CE5;
+    color: #F9B5CC;
   }

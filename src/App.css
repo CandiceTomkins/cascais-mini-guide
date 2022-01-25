@@ -1,13 +1,15 @@
 
 .body-app{
-  background-color:  #F9B5CC;
+  background-color:  #F9B614;
 }
 .App {
   text-align: center;
 }
 
 .App-logo {
-  height: 40vmin;
+margin-top:30px;
+ max-width: 150px;
+ border-radius: 50%;
   pointer-events: none;
 }
 
