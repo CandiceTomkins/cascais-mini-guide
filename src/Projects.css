@@ -23,20 +23,22 @@
     font-size: 18px;
   
  }
+ p{
+     font-size: 12px;
+ }
   
   
   .btn-project{
     
       color: #F64809;
-      padding: 5px, 10px;
-      font-size: 12px;
-  
+      font-size: 14px;
+      
   }
 
   .btn-project:hover{
      transition: ease-in-out all 2ms;
-  
     color:  #2C5CE5;
     font-size: 18px;
+    
    
 }

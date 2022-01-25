@@ -23,12 +23,14 @@
       font-size: 12px;
       display: inline-flex;
       margin: 5px;
+      text-decoration: none;
 
   }
 
   .social-link:hover{
     font-size: 18px;
     color: #F64809;
+    text-decoration: none;
 
     
 }

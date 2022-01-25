@@ -19,7 +19,11 @@ function App() {
       <About/>
       <Projects/>
       <Contact/>
-<small>Coded by Candice Tomkins. Open-sourced on <a href="https://github.com/CandiceTomkins" alt="GitHub">GitHub</a></small>
+<footer><p>Coded by Candice Tomkins. Open-sourced on <a href="https://github.com/CandiceTomkins" alt="GitHub">GitHub</a><br/>
+<a href="mailto:candicetomkins@gmail.com" alt="email-address" className="social-link">Email</a>
+<a href="https://github.com/CandiceTomkins" alt="GitHub" className="social-link">GitHub</a>
+            <a href="https://www.linkedin.com/in/candice-tomkins-3b2129102" alt="linkedin-link" className="social-link">LinkedIn</a>
+            <a href="https://instagram.com/candytomkinstravels" alt="instagram-link" className="social-link">Instagram</a></p></footer>
     </div>
     
   );
