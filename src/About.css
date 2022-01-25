@@ -13,5 +13,15 @@
     align-items: center;
     justify-content: center;
     font-size: calc(10px + 2vmin);
+
+    font-size: 18px;
+    color: #F9B5CC;
+    opacity: 80%;
+  }
+
+  .highlight-text{
+ 
+    font-size: 25px;
+    font-weight: 500;
     color: #F9B5CC;
   }

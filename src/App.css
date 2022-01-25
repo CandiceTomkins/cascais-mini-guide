@@ -4,10 +4,11 @@
 }
 .App {
   text-align: center;
+  font-family: 'Poppins', sans-serif;
 }
 
 .App-logo {
-margin-top:30px;
+margin: 30px;
  max-width: 150px;
  border-radius: 50%;
   pointer-events: none;
@@ -15,8 +16,7 @@ margin-top:30px;
 
 .App-header {
 
-  font-family: 'Major Mono Display', monospace;
-  font-size: 18px;
+ 
   max-width: 600px;
   margin: 0 auto;
   background-color: #2C5CE5;
@@ -25,6 +25,20 @@ margin-top:30px;
   align-items: center;
   justify-content: center;
   color: #F9B5CC;
+  font-size: calc(10px + 2vmin);
+  min-height: 100vh;
+}
+.my-name{
+
+  font-size: 25px;
+}
+.front-end-dev{
+font-weight: 700;
+  font-size: 18px;
+}
+.based-in-lisbon{
+  font-size: 14px;
+  padding:20px;
 }
 
 .App-link {
