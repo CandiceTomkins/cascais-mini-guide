@@ -10,12 +10,12 @@ export default function Projects () {
                 
           <h3>React Weather App</h3>
           <p className="project-paragraph">Built with React.js and OpenWeather API</p>
-          <a href="https://dreamy-bose-b80498.netlify.app/" className="btn btn-project mb-3">see project</a>
+          <a href="https://candy-react-weather-app.netlify.app/" className="btn btn-project mb-3" alt="react weather app link">see project</a>
          
                    
           <h3>Glaucoma Dictionary App</h3>
           <p className="project-paragraph">Built with React.js and Merriam Webster Medical API</p>
-          <a href="https://fervent-euler-2f8d75.netlify.app/" className="btn btn-project mb-3">see project</a>
+          <a href="https://glaucoma-app.netlify.app/" className="btn btn-project mb-3" alt="glaucoma app link">see project</a>
          
 
           <h3>Alentejo, Portugal</h3>
