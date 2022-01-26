@@ -24,7 +24,7 @@ export default function Projects () {
 
 
           <h3>Soi 55 Lifestyle</h3>
-          <p className="project-paragraph">The Beach and Travel lifestyle / My Business (built in Wordpress)</p>
+          <p className="project-paragraph">The Beach and Travel lifestyle / My Side Hustle (Wordpress site)</p>
           <a href="https://soi55lifestyle.com/" className="btn btn-project mb-3" alt="soi 55 lifestyle link">see project</a>
                    </div>
                   
