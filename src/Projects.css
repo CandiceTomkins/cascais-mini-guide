@@ -1,44 +1,25 @@
-.body-projects{
-    background-color:  #F9B614;
+.body-projects {
+  background-color: #f9b614;
 }
 .project-section {
-    max-width: 600px;
-    margin: 0 auto;
-    background-color: #ABDAC3;
-    min-height: 100vh;
-    display: flex;
-    flex-direction: column;
-    align-items: center;
-    justify-content: center;
-    font-size: calc(10px + 2vmin);
-    color: #F64809;
-    padding:10px;
-  }
-  
-  .container{
-      text-align: centre;
-  }
- .project-title{
-     color: #F64809;
-    font-size: 18px;
-  
- }
- p{
-     font-size: 12px;
- }
-  
-  
-  .btn-project{
-    
-      color:  #2C5CE5;
-      font-size: 14px;
-      
-  }
+  max-width: 600px;
+  margin: 0 auto;
+  background-color: #f9b614;
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  font-size: calc(10px + 2vmin);
+  color: black;
+  padding: 10px;
+}
 
-  .btn-project:hover{
-     transition: ease-in-out all 2ms;
-    color:  #F64809;
-    font-size: 18px;
-    
-   
+.container {
+  text-align: centre;
+}
+
+p {
+  font-size: 12px;
+  color: black;
 }
