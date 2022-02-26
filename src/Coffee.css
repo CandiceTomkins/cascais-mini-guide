@@ -1,0 +1,39 @@
+.body-coffee {
+  background-color: #2c5ce5;
+}
+.coffee-section {
+  font-family: "Quicksand", sans-serif;
+  max-width: 600px;
+  margin: 0 auto;
+  background-color: #2c5ce5;
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  font-size: calc(10px + 2vmin);
+  color: #f9b5cc;
+  padding: 10px;
+  font-size: 16px;
+}
+
+.coffee-title {
+  margin: 18px;
+}
+.coffee-link {
+  color: #f9b5cc;
+  font-size: 12px;
+  display: inline-flex;
+  margin: 5px;
+  text-decoration: none;
+}
+
+.coffee-link:hover {
+  font-size: 18px;
+  color: white;
+  text-decoration: none;
+}
+
+img {
+  max-width: 300px;
+}

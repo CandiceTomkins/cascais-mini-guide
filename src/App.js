@@ -1,9 +1,10 @@
 import heroImage from "./cascais-lighthouse.jpg";
 import "./App.css";
 import About from "./About";
-import Projects from "./Projects";
+import Experiences from "./Experiences";
 import Contact from "./Contact";
 import React from "react";
+import Coffee from "./Coffee";
 
 function App() {
   return (
@@ -24,7 +25,8 @@ function App() {
         </header>
       </div>
       <About />
-      <Projects />
+      <Experiences />
+      <Coffee />
       <Contact />
       <footer>
         <p>
