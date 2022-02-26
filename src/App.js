@@ -16,9 +16,11 @@ function App() {
             alt="cascais lighthouse"
           />
 
-          <h1 className="title">
-            Cascais, Portugal <div className="subtitle">A Mini Guide</div>
-          </h1>
+          <h1 className="title">Experience Cascais</h1>
+          <h2 classname="subtitle">
+            A pocket guide with the best tips for making the most of your trip
+            to Cascais without taking away the joy of discovery.
+          </h2>
         </header>
       </div>
       <About />
@@ -53,7 +55,7 @@ function App() {
             LinkedIn
           </a>
           <a
-            href="https://instagram.com/candytomkinstravels"
+            href="https://instagram.com/soi55lifestyle"
             alt="instagram-link"
             className="social-link"
           >
