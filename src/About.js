@@ -8,6 +8,7 @@ export default function About() {
         <p>A pocket guide for the best experiences in Cascais, Portugal. </p>
         <div>
           <iframe
+            title="Cascais Map by Soi 55"
             src="https://www.google.com/maps/d/u/1/embed?mid=1HiOLHnEl18gCt6cZDzvQh1ha9b2zYvFs&ehbc=2E312F"
             width="640"
             height="480"
